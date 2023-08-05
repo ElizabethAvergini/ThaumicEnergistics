@@ -1,11 +1,6 @@
 # ThaumicEnergistics
 *Because the digital age could use some magic!*
 
-[![discord]](https://discord.gg/ywBJYK6)
-[![curseforge-downloads]](https://minecraft.curseforge.com/projects/thaumic-energistics)
-[![curseforge-versions]](https://minecraft.curseforge.com/projects/thaumic-energistics)
-[![build-status]](https://ci.brock.pw/job/Thaumic%20Energistics%20RV6/)
-
 The following mods are required for this mod:
 - Thaumcraft
 - Applied Energistics 2
